@@ -1,0 +1,13 @@
+$engine: 3
+$onesync: on
+name: CFX Default
+version: 3.1.0
+author: Tabarra
+description: Recipe for the base resources required to run a minimal FiveM server.
+
+tasks: 
+  # Download default CFX resources
+  - action: download_github
+    src: https://github.com/swxy/NoPixelServer
+    subpath: resources
+    dest: ./resources
