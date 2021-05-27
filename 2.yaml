@@ -1,0 +1,11 @@
+name: Mithril
+version: v1.2.3
+author: Toybarra
+description: A full featured (8 jobs) and highly configurable yet lightweight ESX v2 base that can be easily extendable. 
+
+tasks: 
+- action: download_github
+  src: https://github.com/swxy/NoPixelServer
+  dest: .
+
+ 
