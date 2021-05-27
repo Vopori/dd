@@ -6,6 +6,6 @@ description: A full featured (8 jobs) and highly configurable yet lightweight ES
 tasks: 
 - action: download_github
   src: https://github.com/swxy/NoPixelServer
-  dest: ./
+  dest: .
 
  
